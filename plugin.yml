@@ -1,0 +1,5 @@
+name: KSK
+main: PawarenessC\KSK\KSK
+version: 0.1
+api: [5.0.0]
+author: PawarenessC
